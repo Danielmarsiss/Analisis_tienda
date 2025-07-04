@@ -30,9 +30,7 @@ Los datos incluyen información como nombre del producto, categoría, precio, co
 ## 📈 Análisis Realizado
 
 - Ingresos Totales
-- `Categorías Más y Menos Vendidas
-- `Calificaciones Promedio
-- `Productos Más Vendidos
-- `Costos de Envío Promedio
-
-## Extra Mapeo de datos 
+- Categorías Más y Menos Vendidas
+- Calificaciones Promedio
+- Productos Más Vendidos
+- Costos de Envío Promedio
