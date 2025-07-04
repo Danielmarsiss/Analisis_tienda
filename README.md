@@ -1,4 +1,4 @@
-# 📊 Análisis Comparativo de Tiendas para el Sr. Juan
+# 📊 Análisis Comparativo de Tiendas 
 
 ## 🧾 Descripción del Proyecto
 
